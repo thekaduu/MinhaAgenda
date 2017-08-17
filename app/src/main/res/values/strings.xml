@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minha Agenda</string>
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereço</string>
+    <string name="telefone">Telefone</string>
+    <string name="site">Site</string>
+</resources>
